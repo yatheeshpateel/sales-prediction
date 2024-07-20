@@ -2,7 +2,7 @@
 This is a case study of predicting future sales using machine learning algorithms. The goal is to build a model that can predict the sales based on historical sales data.
 
 # Prerequisites
-To run this project, you will need the following:
+To run this project, you will need the following
 Python 3.x             
 Jupyter Notebook            
 scikit-learn library          
