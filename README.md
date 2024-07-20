@@ -14,7 +14,7 @@ given some information about students like:
 
 TV: Advertising cost spent in dollars for advertising on TV;              
 Radio: Advertising cost spent in dollars for advertising on Radio;          
-Newspaper: Advertising cost spent in dollars for advertising on Newspaper;               
+Newspaper: Advertising cost spent in dollars for advertising on Newspaper               
 Sales: Number of units sold;                      
 
 # explaination of the code 
